@@ -7,3 +7,6 @@ Game manager validates player input, displays available moves and invokes input 
 Tiles are connected in a tree which allows every tile to validate if it is in a mill or not.
 
 There are also mouse hovers implemented for suggesting moves.
+
+
+<img src="img/mlin_1.png" width="49%"> <img src="img/mlin_2.png" width="49%">
